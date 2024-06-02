@@ -90,4 +90,4 @@ return(
 )
 }
 
-export default Dealer
+export default Dealer;
